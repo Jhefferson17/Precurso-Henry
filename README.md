@@ -1,2 +1,2 @@
-# Precurso-Henry
-Preparación para Henry
+# Precurso-PHP
+Iniciacion en PHP
